@@ -21,8 +21,11 @@
     "url": "git+https://github.com/eddies/storybook-demo.git"
   },
   "devDependencies": {
+    "@storybook/addon-storyshots": "^3.4.8",
+    "@storybook/addons": "^3.4.8",
     "@storybook/react": "^3.4.8",
     "@storybook/storybook-deployer": "^2.3.0",
-    "babel-core": "^6.26.3"
+    "babel-core": "^6.26.3",
+    "react-test-renderer": "^16.4.1"
   }
 }
